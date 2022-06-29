@@ -6,7 +6,7 @@ namespace Application_Gestion_Medicament
 {
 
     /// <summary>
-    /// Permet de stocker une maladie avec comme information son id, son libelle, 
+    /// Permet de stocker une maladie avec son id, son libelle
     /// </summary>
     public class Maladie : ICRUD<Maladie>
     {
