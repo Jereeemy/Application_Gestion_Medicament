@@ -6554,24 +6554,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\pellisje\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\jerem\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pellisje\\Desktop\\SAE2.01Aplication (2)\\SAE2.01Aplication\\SAE2.01\\Application_Gestion_Medicament\\Application_Gestion_MedicamentTests\\Application_Gestion_MedicamentTests.csproj",
+      "projectUniqueName": "C:\\Users\\jerem\\Desktop\\cours but\\cours\\SEMESTRE 2\\Application_Gestion_Medicament\\Application_Gestion_MedicamentTests\\Application_Gestion_MedicamentTests.csproj",
       "projectName": "Application_Gestion_MedicamentTests",
-      "projectPath": "C:\\Users\\pellisje\\Desktop\\SAE2.01Aplication (2)\\SAE2.01Aplication\\SAE2.01\\Application_Gestion_Medicament\\Application_Gestion_MedicamentTests\\Application_Gestion_MedicamentTests.csproj",
-      "packagesPath": "C:\\Users\\pellisje\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pellisje\\Desktop\\SAE2.01Aplication (2)\\SAE2.01Aplication\\SAE2.01\\Application_Gestion_Medicament\\Application_Gestion_MedicamentTests\\obj\\",
+      "projectPath": "C:\\Users\\jerem\\Desktop\\cours but\\cours\\SEMESTRE 2\\Application_Gestion_Medicament\\Application_Gestion_MedicamentTests\\Application_Gestion_MedicamentTests.csproj",
+      "packagesPath": "C:\\Users\\jerem\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jerem\\Desktop\\cours but\\cours\\SEMESTRE 2\\Application_Gestion_Medicament\\Application_Gestion_MedicamentTests\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\pellisje\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\jerem\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6585,8 +6580,8 @@
         "netcoreapp3.1": {
           "targetAlias": ".NETCoreApp,Version=v3.1",
           "projectReferences": {
-            "C:\\Users\\pellisje\\Desktop\\SAE2.01Aplication (2)\\SAE2.01Aplication\\SAE2.01\\Application_Gestion_Medicament\\Application_Gestion_Medicament\\Application_Gestion_Medicament.csproj": {
-              "projectPath": "C:\\Users\\pellisje\\Desktop\\SAE2.01Aplication (2)\\SAE2.01Aplication\\SAE2.01\\Application_Gestion_Medicament\\Application_Gestion_Medicament\\Application_Gestion_Medicament.csproj"
+            "C:\\Users\\jerem\\Desktop\\cours but\\cours\\SEMESTRE 2\\Application_Gestion_Medicament\\Application_Gestion_Medicament\\Application_Gestion_Medicament.csproj": {
+              "projectPath": "C:\\Users\\jerem\\Desktop\\cours but\\cours\\SEMESTRE 2\\Application_Gestion_Medicament\\Application_Gestion_Medicament\\Application_Gestion_Medicament.csproj"
             }
           }
         }
@@ -6633,7 +6628,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
       }
     }
   }

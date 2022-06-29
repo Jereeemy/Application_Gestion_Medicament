@@ -7,7 +7,7 @@ namespace Application_Gestion_Medicament
 {
 
     /// <summary>
-    /// Permet de créer et de stocker une autorisation avec comme information son medicament, sa maladie, une date et un commentaire 
+    /// Permet de créer et de stocker une autorisation avec un medicament, une maladie, une date et un commentaire 
     /// </summary>
     public class Autoriser : ICRUD<Autoriser>
     {
