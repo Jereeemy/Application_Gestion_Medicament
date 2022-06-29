@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Application_Gestion_Medicament.Medicament">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQIAAAAAAAAAAAAAAAQCAAgAAEAIEAAAABAAAAAAIA=</HashCode>
+      <FileName>Classes\Medicament.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Application_Gestion_Medicament.Maladie">
+    <Position X="5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAgAAAAAAAAAAAAAQCAAgACEAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Maladie.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Application_Gestion_Medicament.CategorieMedicament">
+    <Position X="2.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAgAAAAAAAAAAAACQCAAgAAEAIEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\CategorieMedicament.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Application_Gestion_Medicament.Autoriser">
+    <Position X="7" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAQAAAAAgAQCAAgAAEAAEAAAAAAAQAAAAA=</HashCode>
+      <FileName>Classes\Autoriser.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Application_Gestion_Medicament.DataAccess">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEQAAAAAAAAAAAAAAABAAAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\DataAccess.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Application_Gestion_Medicament.ApplicationData">
+    <Position X="9.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAEAAAAAAAAAAAAAAAAAAEAAAAAAgAAAAIAAAAAA=</HashCode>
+      <FileName>Classes\ApplicationData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Application_Gestion_Medicament.MainWindow">
+    <Position X="11.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAADAAAAAAAAAQAEAAAAIAABAAAAAAAAAAACIAAAA=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="Application_Gestion_Medicament.ICRUD&lt;T&gt;">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAQCAAgAAEAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\ICRUD.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
